@@ -3,7 +3,7 @@
 ![Home Page Image](Images/home_page_img.png)
 
 # Introduction
-British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Every day, thousands of BA flights arrive to and depart from the UK, carrying customers across the world. Whether it’s for holidays, work or any other reason, the end-to-end process of scheduling, planning, boarding, fuelling, transporting, landing, and continuously running flights on time, efficiently and with top-class customer service is a huge task with many highly important responsibilities.
+In the highly competitive airline industry, customer satisfaction is paramount for maintaining brand loyalty and attracting new passengers. British Airways, one of the world's leading airlines, has consistently strived to offer top-notch services to its customers. This analysis delves into the customer reviews of British Airways, exploring various aspects such as service quality, in-flight experience, punctuality, and overall satisfaction. By examining these reviews, we aim to provide a comprehensive overview of the passenger experiences and identify areas of strength as well as opportunities for improvement. This analysis not only sheds light on the current performance of British Airways but also offers insights that can help the airline enhance its services and elevate the customer experience.
 
 # Objective
 * Develop and execute a web scraping strategy to collect customer feedback related to BA's services.
